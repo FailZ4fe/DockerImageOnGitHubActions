@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ failz4fe }}/dockerimageongithubactions:latest
+          tags: ghcr.io/failz4fe/dockerimageongithubactions:latest
